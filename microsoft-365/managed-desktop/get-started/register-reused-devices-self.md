@@ -34,7 +34,7 @@ To register existing devices, follow these steps:
 Microsoft Managed Desktop identifies each device uniquely by referencing its hardware hash. You have four options for getting this information from devices you're already using:
 
 - Ask your OEM supplier for the AutoPilot registration file, which will include the hardware hashes.
-- Collect information in [Microsoft Endpoint Configuration Manager](#configuration-manager).
+- Collect information in [Microsoft Endpoint Configuration Manager](#configuration-manager). 
 - Run a Windows PowerShell script--either by using [Active Directory](#active-directory-powershell-script-method) or [manually](#manual-powershell-script-method) on each device--and collect the results in a file.
 - Start each device--but don't complete the Windows setup experience--and [collect the hashes on a removable flash drive](#flash-drive-method).
 
