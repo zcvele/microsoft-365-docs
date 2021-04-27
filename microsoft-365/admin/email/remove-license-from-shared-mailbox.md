@@ -34,6 +34,7 @@ Shared mailboxes usually don't require a license. Follow these instructions to r
 > 2. The shared mailbox uses in-place archiving.
 > 3. The shared mailbox is placed in litigation hold.
 > 4. The shared mailbox has a Microsoft Defender license assigned.
+> 5. The shared mailbox is used for scheduling meeings and requires custom Teams meeting policy
 
   
 ## Remove the license
